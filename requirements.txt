@@ -6,3 +6,4 @@ seaborn
 streamlit
 streamlit-lottie
 requests
+plotly
